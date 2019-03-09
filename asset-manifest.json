@@ -1,0 +1,16 @@
+{
+  "main.css": "/counter-app/static/css/main.420eecc0.chunk.css",
+  "main.js": "/counter-app/static/js/main.de2bcc7d.chunk.js",
+  "main.js.map": "/counter-app/static/js/main.de2bcc7d.chunk.js.map",
+  "runtime~main.js": "/counter-app/static/js/runtime~main.79c8bacc.js",
+  "runtime~main.js.map": "/counter-app/static/js/runtime~main.79c8bacc.js.map",
+  "static/css/2.9cfc184d.chunk.css": "/counter-app/static/css/2.9cfc184d.chunk.css",
+  "static/js/2.0ec5ece1.chunk.js": "/counter-app/static/js/2.0ec5ece1.chunk.js",
+  "static/js/2.0ec5ece1.chunk.js.map": "/counter-app/static/js/2.0ec5ece1.chunk.js.map",
+  "index.html": "/counter-app/index.html",
+  "precache-manifest.893b325aadfbc67e515fca42f1225ad0.js": "/counter-app/precache-manifest.893b325aadfbc67e515fca42f1225ad0.js",
+  "service-worker.js": "/counter-app/service-worker.js",
+  "static/css/2.9cfc184d.chunk.css.map": "/counter-app/static/css/2.9cfc184d.chunk.css.map",
+  "static/css/main.420eecc0.chunk.css.map": "/counter-app/static/css/main.420eecc0.chunk.css.map",
+  "static/media/logo.svg": "/counter-app/static/media/logo.5d5d9eef.svg"
+}
